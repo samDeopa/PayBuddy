@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/100xdevs-cohort-2/paytm
+git clone https://github.com/samDeopa/PayBuddy
 Navigate into the project directory:
 
 bash
